@@ -1,6 +1,13 @@
 hexo-theme-yilia
 ================
 
+首先感谢精彩的[hexo](https://github.com/hexojs/hexo)，更要感谢的是yilia的[作者](http://litten.me/)，创造了如此优秀的作品。  
+但目前的yilia还不能完全满足我的需要，所以根据自己的需要fork出分支并修改了部分源码，如果以后完善了某个功能会单独拿出来提交到yilia仓库。
+
+—————————————————————  
+以下是fork时的仓库描述文档。  
+—————————————————————  
+
 Yilia 是为 [hexo](https://github.com/tommy351/hexo) 2.4+制作的主题。
 崇尚简约优雅，以及极致的性能。 你可以点击 [我的博客](http://litten.me/) 查看效果。           
  
