@@ -59,7 +59,10 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar: https://avatars2.githubusercontent.com/u/16449872?v=3&u=1c62bfa59eb7938e74a916297447cec0f093e4e0&s=400
+avatar: http://oh4pp6966.bkt.clouddn.com/static/images/_common/avatar.jpg
+
+#微信公众号二维码
+weixin_qr_code: http://oh4pp6966.bkt.clouddn.com/static/images/_common/weixin_qr_code.jpg
 
 #是否开启分享
 share_jia: true
