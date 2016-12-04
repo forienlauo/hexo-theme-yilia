@@ -11,7 +11,7 @@ subnav:
   # rss: "#"
   # zhihu: "#"
   # douban: "#"
-  # mail: "forienlauo@gmail.com"
+  mail: "mailto:forienlauo@gmail.com"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
@@ -25,10 +25,14 @@ rss: /atom.xml
 root: 
 
 # Content
-excerpt_link: more
-fancybox: true
-mathjax: true
 
+# 文章太长，截断按钮文字
+excerpt_link: more
+# 文章卡片右下角常驻链接，不需要请设置为false
+# show_all_link: '展开全文'
+show_all_link: false
+# 数学公式
+mathjax: false
 # 是否开启动画效果
 animate: true
 
@@ -54,6 +58,16 @@ skip_render:
 # 是否在新窗口打开链接
 open_in_new: false
 
+# 打赏
+# 请在需要打赏的文章的md文件头部，设置属性reward: true
+
+# 打赏wording
+reward_wording: 'make a better world for everyone'
+# 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
+alipay: 
+# 微信二维码图片地址
+weixin: 
+
 # Miscellaneous
 google_analytics: 'UA-88415227-1'
 favicon: /favicon.png
@@ -72,11 +86,11 @@ share_addthis: false
 #若使用disqus，请在博客config文件中填写disqus_shortname，并关闭多说评论
 duoshuo: forienlauo # 上线时开启,本地测试时关闭
 
-# 如不需要，将该项置为false
+# 智能菜单
+# 如不需要，将该对应项置为false
 # 比如
 #smart_menu:
 #  friends: false
-
 smart_menu:
   innerArchive: '所有文章'
   tagcloud: '标签'
@@ -85,10 +99,10 @@ smart_menu:
 
 friends:
   Google大法好: https://google.com/
-  # 友情链接2: http://localhost:4000/
+  程序猿说你好 - coding.net: https://forienlauo.coding.net/
   # 友情链接3: http://localhost:4000/
   # 友情链接4: http://localhost:4000/
   # 友情链接5: http://localhost:4000/
   # 友情链接6: http://localhost:4000/
 
-aboutme: 这是一个技术博客集。<br>写下了一个蝼蚁之辈对计算机世界的敬畏。
+aboutme: 一只猴子，<br>在计算机的丛林里探险。
