@@ -66,7 +66,7 @@ reward_wording: 'make a better world for everyone'
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
 alipay: 
 # 微信二维码图片地址
-weixin: 
+weixin:  http://oh4pp6966.bkt.clouddn.com/static/images/_common/weixin_pay_qr_code.png
 
 # Miscellaneous
 google_analytics: 'UA-88415227-1'
