@@ -8,7 +8,7 @@ menu:
 subnav:
   github: "https://github.com/forienlauo"
   # weibo: "#"
-  # rss: "#"
+  rss: "/atom.xml"
   # zhihu: "#"
   # douban: "#"
   mail: "mailto:forienlauo@gmail.com"
@@ -98,7 +98,7 @@ smart_menu:
   aboutme: '关于我'
 
 friends:
-  Google大法好: https://google.com/
+  Google大法好: https://www.google.com/
   程序猿说你好 - github.io: https://forienlauo.github.io/
   程序猿说你好 - coding.me: https://forienlauo.coding.me/
   # 友情链接4: http://localhost:4000/
